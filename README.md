@@ -4,7 +4,7 @@ A modular, fully local Retrieval-Augmented Generation (RAG) system for private d
 
 ## Output Demo Video
 
-[Watch Demo](./demo.mp4)
+[Watch Demo](https://drive.google.com/file/d/1FTVVvOIg88dLJOFiuzKjN6NQqh_9TtXZ/view?usp=drive_link)
 
 ---
 
